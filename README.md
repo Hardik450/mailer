@@ -23,7 +23,7 @@ A simple, scalable Django REST API to send emails asynchronously. Features insta
 ### 1. Clone & Install
 
 ```bash
-git clone <repo_url>
+git clone https://github.com/Hardik450/mailer.git
 cd email_service
 python -m venv venv
 source venv/bin/activate  # on Windows: venv\Scripts\activate
